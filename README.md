@@ -2,7 +2,7 @@
 
 ## About Me:
 
-- 🪲 I currently work as a manual QA engineer 
+- 🐛 I currently work as a manual QA engineer 
 - 📘 I'm in the process of learning **Java** and completed my studies at **[QA.GURU](https://qa.guru/)**
 - 🌏 Languages: **Русский**, **English** (B1-B2)
 
